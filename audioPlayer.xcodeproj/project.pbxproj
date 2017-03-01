@@ -12,6 +12,9 @@
 		0C71C78E1E663E4D00E3EBD4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C71C78C1E663E4D00E3EBD4 /* Main.storyboard */; };
 		0C71C7901E663E4D00E3EBD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C71C78F1E663E4D00E3EBD4 /* Assets.xcassets */; };
 		0C71C7931E663E4D00E3EBD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C71C7911E663E4D00E3EBD4 /* LaunchScreen.storyboard */; };
+		0C71C79B1E663F2D00E3EBD4 /* stones.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C71C79A1E663F2D00E3EBD4 /* stones.jpg */; };
+		0C71C79D1E6640EB00E3EBD4 /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C71C79C1E6640EB00E3EBD4 /* song.mp3 */; };
+		0C71C79F1E66458F00E3EBD4 /* back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C71C79E1E66458F00E3EBD4 /* back.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		0C71C78F1E663E4D00E3EBD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C71C7921E663E4D00E3EBD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0C71C7941E663E4D00E3EBD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C71C79A1E663F2D00E3EBD4 /* stones.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stones.jpg; sourceTree = "<group>"; };
+		0C71C79C1E6640EB00E3EBD4 /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song.mp3; sourceTree = "<group>"; };
+		0C71C79E1E66458F00E3EBD4 /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				0C71C78A1E663E4D00E3EBD4 /* ViewController.swift */,
 				0C71C78C1E663E4D00E3EBD4 /* Main.storyboard */,
 				0C71C78F1E663E4D00E3EBD4 /* Assets.xcassets */,
+				0C71C79A1E663F2D00E3EBD4 /* stones.jpg */,
+				0C71C79C1E6640EB00E3EBD4 /* song.mp3 */,
+				0C71C79E1E66458F00E3EBD4 /* back.jpg */,
 				0C71C7911E663E4D00E3EBD4 /* LaunchScreen.storyboard */,
 				0C71C7941E663E4D00E3EBD4 /* Info.plist */,
 			);
@@ -124,7 +133,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C71C7931E663E4D00E3EBD4 /* LaunchScreen.storyboard in Resources */,
+				0C71C79B1E663F2D00E3EBD4 /* stones.jpg in Resources */,
 				0C71C7901E663E4D00E3EBD4 /* Assets.xcassets in Resources */,
+				0C71C79D1E6640EB00E3EBD4 /* song.mp3 in Resources */,
+				0C71C79F1E66458F00E3EBD4 /* back.jpg in Resources */,
 				0C71C78E1E663E4D00E3EBD4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
